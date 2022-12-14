@@ -1,0 +1,189 @@
+<rss version="2.0">
+    <channel>
+        <title>beparanoid.de</title>
+        <link>https://beparanoid.de/</link>
+        <description>beparanoid.de changelog</description>
+
+        <item>
+            <title>Changelog 2022-12-14</title>
+            <link>https://beparanoid.de</link>
+            <pubDate>2022-12-14</pubDate>
+            <description><![CDATA[
+            - Added the "open content" badge
+            - Fixed some broken links
+            - Added wiby to the recommended search engines
+            - Added another image to the setup section :x
+            ]]></description>
+        </item>
+
+        <item>
+            <title>Changelog 2022-12-13 (HUGE UPDATE)</title>
+            <link>https://beparanoid.de</link>
+            <pubDate>2022-12-13</pubDate>
+            <description><![CDATA[
+            - Changed basically everything, I hope you guys like the new design lolz
+            ]]></description>
+        </item>
+
+        <item>
+            <title>Changelog 2022-12-04</title>
+            <link>https://beparanoid.de</link>
+            <pubDate>2022-12-04</pubDate>
+            <description><![CDATA[
+            - Changed some icons on the index page, fixed and optimized blurry images
+            - Updated setup section
+            - Updated comparisons section (search engine, browser, git)
+            - Updated matrix section
+            - Added elpengu to other_sites
+            - Added github link on index page
+            - I stopped hosting mirrors
+            ]]></description>
+        </item>
+
+        <item>
+            <title>Changelog 2022-10-01</title>
+            <link>https://beparanoid.de</link>
+            <pubDate>2022-10-01</pubDate>
+            <description><![CDATA[
+            - Started hosting cinny (chat.beparanoid.de)
+            - Updated the setup section
+            - Removed the webhosting section
+            ]]></description>
+        </item>
+
+        <item>
+            <title>Changelog 2022-08-16</title>
+            <link>https://beparanoid.de</link>
+            <pubDate>2022-08-16</pubDate>
+            <description><![CDATA[
+            - Main site is back
+            - Cloudtube got replaced with Invidious
+            - Started hosting a mirror of my github (git.beparanoid.de)
+            - i2pd segfaults all the time so for now my I2P services are down
+            - The onion address got updated, remove the old one if you have it bookmarked
+            - There is a new Matrix room
+            ]]></description>
+        </item>
+
+        <item>
+            <title>Changelog 2022-08-05</title>
+            <link>https://beparanoid.de</link>
+            <pubDate>2022-08-05</pubDate>
+            <description><![CDATA[
+            - !!! Started hosting mirrors of Gentoo, Parabola and Libreboot !!!
+            - My I2P hidden services are back
+            - Added Falkon and Abrowser to the browser comparisons section
+            - Updated the instances section
+            - Updated the setup section
+            - Fixed some issues with the CSS, the website should look good on small monitors now
+            - Updated the Minecraft server to 1.19.1
+            ]]></description>
+        </item>
+
+        <item>
+            <title>Changelog 2022-07-26</title>
+            <link>https://beparanoid.de</link>
+            <pubDate>2022-07-26</pubDate>
+            <description><![CDATA[
+            - Moved the homeserver to FreeBSD 13.1 since OpenBSD caused multiple issues, sorry for the downtime : /
+            - Nitter works again
+            ]]></description>
+        </item>
+
+        <item>
+            <title>Changelog 2022-07-25</title>
+            <link>https://beparanoid.de</link>
+            <pubDate>2022-07-25</pubDate>
+            <description><![CDATA[
+            - Updated the homeserver to OpenBSD 7.2-beta
+            - Fixed issues with the Tor mirror, it works again
+            - Replaced Libreddit with Teddit since it seems to be lighter on system resources
+            - Added Session to the IM comparisons
+            ]]></description>
+        </item>
+
+        <item>
+            <title>Changelog 2022-07-21</title>
+            <link>https://beparanoid.de</link>
+            <pubDate>2022-07-21</pubDate>
+            <description><![CDATA[
+            - Started hosting a 1.19 Minecraft server
+            - Updated the Matrix contact
+            - Replaced GNUTube with CloudTube
+            - Removed qorg11's website from other sites
+            - Updated the css
+            - Updated the instances section
+            - Stopped hosting I2P mirrors since it caused issues
+            ]]></description>
+        </item>
+
+        <item>
+            <title>Changelog 2022-07-16</title>
+            <link>https://beparanoid.de</link>
+            <pubDate>2022-07-16</pubDate>
+            <description><![CDATA[
+            - !!! Moved the homeserver to OpenBSD !!!
+	    	- Updated the design of the website
+            - Added git services to comparisons
+            - Updated almost all of the sites
+            - Changed contact e-mail to hnhx@danwin1210.de
+            - Added the WTFPL license
+            ]]></description>
+        </item>
+
+	    <item>
+            <title>Changelog 2022-06-14</title>
+            <link>https://beparanoid.de</link>
+            <pubDate>2022-06-14</pubDate>
+            <description><![CDATA[
+	    	- Updated the index page
+		- Added qorg11.net to other sites
+		- Updated the instances section
+		- Updated the CSS
+		- Fixed a security issue in the webhosting section
+		]]></description>
+        </item>
+
+        <item>
+            <title>Changelog 2022-06-04</title>
+            <link>https://beparanoid.de</link>
+            <pubDate>2022-06-04</pubDate>
+            <description><![CDATA[
+	    	- Updated the comparisons section
+		- Added chaox.ro to other sites
+		- Updated the setup section
+		- Updated the ToS for webhosting (/tos.txt)
+		- I tried hosting ProxiTok but the whole project is so broken it doesn't work
+		- Added Matrix space to the index page
+		]]></description>
+        </item>
+
+        <item>
+            <title>Changelog 2022-05-29</title>
+            <link>https://beparanoid.de</link>
+            <pubDate>2022-05-29</pubDate>
+            <description><![CDATA[
+	    	- Started hosting a Librebin instance (check /instances.xhtml)
+		- Renamed webring to other sites
+	    	- Updated the setup section
+		- Fixed icon for SimplyTranslate
+                ]]></description>
+        </item>
+
+
+
+        <item>
+            <title>Changelog 2022-05-22</title>
+            <link>https://beparanoid.de</link>
+            <pubDate>2022-05-22</pubDate>
+            <description><![CDATA[
+                - Added RSS feed
+                - Started hosting a SimplyTranslate instance (check /instances.xhtml)
+                - Fixed URL for the Shadow wiki in the webring
+                - Added CalyxVPN to the VPN comparisons list
+                - Fixed some CSS issues on the webhosting page
+                ]]></description>
+        </item>
+
+    </channel>
+</rss>

@@ -1,0 +1,67 @@
+body {
+    background:  linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("images/cloud.png") repeat;
+    image-rendering: optimizespeed;
+    font-family: MorePeftectDos, 'Courier New', monospace;
+    text-align: justify;
+    word-break: break-word;
+    color: rgb(232, 234, 237);
+}
+
+@font-face {
+    font-family: MorePeftectDos;
+    src: url("moreperfectdos.ttf");
+}
+
+a, p {
+    font-size: 17px;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(199, 189, 82);
+}
+
+img {
+    padding: 3px;
+}
+
+h1, .center {
+    text-align: center;
+}
+
+p img {
+    vertical-align: middle;
+}
+
+.setup-img {
+    width: 48%;
+    padding: 20px 0px 35px 0px;
+}
+
+.webring img {
+    width: 88px;
+    height: 31px;
+}
+
+.highlight {
+    background-color: #000;
+    color: rgb(59, 59, 124);
+    font-size: 14px;
+}
+
+.content {
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 60px;
+    background-color: rgba(23, 23, 23, 0.55);
+    padding: 13px;
+    border: 2px solid rgb(38, 38, 77);
+    border-radius: 10px;
+}
+
+@media only screen and (max-width: 900px) {
+    .content {
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+}
