@@ -59,6 +59,12 @@ p img {
     border-radius: 10px;
 }
 
+.content p img {
+    float: right;
+    padding: 30px;
+    padding-bottom: 0;
+}
+
 @media only screen and (max-width: 900px) {
     .content {
         margin-left: 3%;
