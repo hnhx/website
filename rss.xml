@@ -5,6 +5,18 @@
         <description>beparanoid.de changelog</description>
 
         <item>
+            <title>Changelog 2022-12-28/title>
+            <link>https://beparanoid.de</link>
+            <pubDate>2022-12-28</pubDate>
+            <description><![CDATA[
+            - Added my make.conf and kernel config to the setup section
+            - Added dwm rice to the setup section
+            - Added a mobile phone section to the setup
+            - Updated the index page
+            ]]></description>
+        </item>
+
+        <item>
             <title>Changelog 2022-12-14</title>
             <link>https://beparanoid.de</link>
             <pubDate>2022-12-14</pubDate>
