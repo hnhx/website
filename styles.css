@@ -1,5 +1,5 @@
 body {
-    background:  linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("images/cloud.png") repeat;
+    background:  linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("images/stars.gif") repeat;
     image-rendering: optimizespeed;
     font-family: MorePeftectDos, 'Courier New', monospace;
     text-align: justify;
@@ -16,9 +16,18 @@ a, p {
     font-size: 17px;
 }
 
-a {
+a, h1 {
     text-decoration: none;
-    color: rgb(199, 189, 82);
+    color: inherit;
+    text-shadow:
+        0 0 7px #6a00ff,
+        0 0 10px #6a00ff,
+        0 0 21px #6a00ff,
+        0 0 42px #6a00ff,
+        0 0 82px #6a00ff,
+        0 0 92px #6a00ff,
+        0 0 102px #6a00ff,
+        0 0 151px #6a00ff;
 }
 
 img {
@@ -47,6 +56,7 @@ p img {
     background-color: #000;
     color: rgb(59, 59, 124);
     font-size: 14px;
+    text-shadow: none;
 }
 
 .content {
@@ -55,14 +65,65 @@ p img {
     margin-top: 60px;
     background-color: rgba(23, 23, 23, 0.55);
     padding: 13px;
-    border: 2px solid rgb(38, 38, 77);
-    border-radius: 10px;
+    box-shadow:  
+        0 0 7px #6a00ff,
+        0 0 14px #6a00ff;
 }
 
 .index-pic {
     float: right;
     padding: 30px;
     padding-bottom: 0;
+}
+
+.widget-container {
+    display: grid;
+    justify-content: center;
+    grid-auto-flow: column;
+}
+
+.widget-container a {
+    color: inherit;
+}
+
+.widget {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 265px;
+    height: 215px;
+    margin: 10px;
+    background-color: rgba(23, 23, 23, 0.55);
+}
+
+.widget span {
+    margin-top: 15px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.widget:hover {
+    opacity: 0.6;
+    cursor: pointer;
+}
+
+.neon-text {
+    text-shadow:
+        0 0 7px #6a00ff,
+        0 0 10px #6a00ff,
+        0 0 21px #6a00ff,
+        0 0 42px #6a00ff,
+        0 0 82px #6a00ff,
+        0 0 92px #6a00ff,
+        0 0 102px #6a00ff,
+        0 0 151px #6a00ff;
+}
+
+.neon-box {
+    box-shadow:  
+        0 0 7px #6a00ff,
+        0 0 14px #6a00ff;
 }
 
 @media only screen and (max-width: 900px) {
