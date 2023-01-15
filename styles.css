@@ -1,10 +1,10 @@
 body {
-    background:  linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("images/stars.gif") repeat;
+    background:  linear-gradient(#00000099, #00000099), url("images/stars.gif") repeat;
     image-rendering: optimizespeed;
     font-family: MorePeftectDos, 'Courier New', monospace;
     text-align: justify;
     word-break: break-word;
-    color: rgb(232, 234, 237);
+    color: #e8eaed;
 }
 
 @font-face {
@@ -21,13 +21,7 @@ a, h1 {
     color: inherit;
     text-shadow:
         0 0 7px #6a00ff,
-        0 0 10px #6a00ff,
-        0 0 21px #6a00ff,
-        0 0 42px #6a00ff,
-        0 0 82px #6a00ff,
-        0 0 92px #6a00ff,
-        0 0 102px #6a00ff,
-        0 0 151px #6a00ff;
+        0 0 14px #6a00ff;
 }
 
 img {
@@ -54,7 +48,7 @@ p img {
 
 .highlight {
     background-color: #000;
-    color: rgb(59, 59, 124);
+    color: #3b3b7c;
     font-size: 14px;
     text-shadow: none;
 }
@@ -63,17 +57,11 @@ p img {
     margin-left: 25%;
     margin-right: 25%;
     margin-top: 60px;
-    background-color: rgba(23, 23, 23, 0.55);
+    background-color: #1717178c;
     padding: 13px;
     box-shadow:  
         0 0 7px #6a00ff,
         0 0 14px #6a00ff;
-}
-
-.index-pic {
-    float: right;
-    padding: 30px;
-    padding-bottom: 0;
 }
 
 .widget-container {
@@ -94,7 +82,7 @@ p img {
     width: 265px;
     height: 215px;
     margin: 10px;
-    background-color: rgba(23, 23, 23, 0.55);
+    background-color: #1717178c;
 }
 
 .widget span {
@@ -111,13 +99,7 @@ p img {
 .neon-text {
     text-shadow:
         0 0 7px #6a00ff,
-        0 0 10px #6a00ff,
-        0 0 21px #6a00ff,
-        0 0 42px #6a00ff,
-        0 0 82px #6a00ff,
-        0 0 92px #6a00ff,
-        0 0 102px #6a00ff,
-        0 0 151px #6a00ff;
+        0 0 14px #6a00ff;
 }
 
 .neon-box {
@@ -127,6 +109,12 @@ p img {
 }
 
 @media only screen and (max-width: 900px) {
+    .widget-container {
+        grid-auto-flow: unset;
+        margin-left: 25%;
+        margin-right: 25%;
+     }
+
     .content {
         margin-left: 3%;
         margin-right: 3%;
