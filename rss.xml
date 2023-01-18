@@ -1,8 +1,18 @@
 <rss version="2.0">
     <channel>
-        <title>beparanoid.de</title>
-        <link>https://beparanoid.de/</link>
-        <description>beparanoid.de changelog</description>
+        <title>femboy.hu</title>
+        <link>https://femboy.hu/</link>
+        <description>femboy.hu changelog</description>
+
+        <item>
+            <title>Changelog 2023-01-18</title>
+            <link>https://femboy.hu</link>
+            <pubDate>2023-01-18</pubDate>
+            <description><![CDATA[
+            - New webring badge
+            - Added email to software alternatives
+            ]]></description>
+        </item>
 
         <item>
             <title>Changelog 2023-01-14</title>
