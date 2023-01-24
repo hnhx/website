@@ -5,6 +5,17 @@
         <description>femboy.hu changelog</description>
 
         <item>
+            <title>Changelog 2023-01-24</title>
+            <link>https://femboy.hu</link>
+            <pubDate>2023-01-24</pubDate>
+            <description><![CDATA[
+            - Sorry for the downtime, my homeserver NUC died had to replace it with my Thinkpad :s
+            - Matrix room changed to #main:femboy.hu
+            - Changed the onion address to cepyxplublbyw2f4axy4pyztfbxmf63lrt2c7uwv6wl4iixz53czload.onion
+            ]]></description>
+        </item>
+
+        <item>
             <title>Changelog 2023-01-23</title>
             <link>https://femboy.hu</link>
             <pubDate>2023-01-23</pubDate>
