@@ -5,6 +5,15 @@
         <description>femboy.hu changelog</description>
 
         <item>
+            <title>Changelog 2023-01-30</title>
+            <link>https://femboy.hu</link>
+            <pubDate>2023-01-30</pubDate>
+            <description><![CDATA[
+            - Upgraded the internet plan for the homeserver: 50 mb -> 500 mb, so all of my instances should be faster now :3
+            ]]></description>
+        </item>
+
+        <item>
             <title>Changelog 2023-01-24</title>
             <link>https://femboy.hu</link>
             <pubDate>2023-01-24</pubDate>
